@@ -1,0 +1,23 @@
+{
+  "name": "improwerved-octo-bassoon",
+  "version": "1.0.0",
+  "description": "basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lekishas/improwerved-octo-bassoon.git"
+  },
+  "dependencies": {
+    "fuzzy-goggles": "1.0.0",
+    "ubiquitous-winner": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekishas/improwerved-octo-bassoon/issues"
+  },
+  "homepage": "https://github.com/lekishas/improwerved-octo-bassoon#readme"
+}
